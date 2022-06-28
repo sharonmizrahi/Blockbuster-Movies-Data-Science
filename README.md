@@ -1,2 +1,2 @@
-# Blockbuster-Movies-Data-Science
+# High-Rated-Movies-Data-Science
 Crawling, Machine Learning, EDA
